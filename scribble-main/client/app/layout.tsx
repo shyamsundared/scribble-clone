@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     title: TITLE,
     description: DESCRIPTION,
     images: ['/og'],
-    creator: '@nainglk',
+    
   },
   openGraph: {
     type: 'website',
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
     description: DESCRIPTION,
     images: ['/og'],
     siteName: TITLE,
-    url: 'https://scribble.nainglinnkhant.com',
+    
     locale: 'en_US',
   },
   icons: {
