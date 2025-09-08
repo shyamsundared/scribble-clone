@@ -42,29 +42,7 @@ export default function Home() {
         </CardContent>
       </Card>
 
-      <div>
-        <p className='text-sm text-muted-foreground'>
-          Crafted by{' '}
-          <a
-            href='https://twitter.com/nainglk'
-            target='__blank'
-            rel='noreferrer'
-            className='font-medium underline underline-offset-4'
-          >
-            nainglk
-          </a>
-          . The source code is on{' '}
-          <a
-            href='https://github.com/nainglinnkhant/scribble'
-            target='__blank'
-            rel='noreferrer'
-            className='font-medium underline underline-offset-4'
-          >
-            GitHub
-          </a>
-          .
-        </p>
-      </div>
+      
     </div>
   )
 }
