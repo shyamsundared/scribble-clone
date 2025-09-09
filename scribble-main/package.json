@@ -4,11 +4,11 @@
   "description": "A drawing app which allows multiple users to draw on the same canvas in real-time.",
   "main": "index.js",
   "scripts": {
-    "dev": "concurrently \"cd server && pnpm dev\" \"cd client && pnpm dev\"",
-    "prepare": "husky install"
+    "dev": "concurrently \"cd server && pnpm dev\" \"cd client && pnpm dev\""
+    
   },
   "keywords": [],
-  "author": "Naing Linn Khant",
+  "author": "Shyam Sundar ",
   "license": "ISC",
   "devDependencies": {
     "@commitlint/cli": "^18.4.3",
