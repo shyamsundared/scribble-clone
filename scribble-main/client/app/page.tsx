@@ -45,17 +45,12 @@ export default function Home() {
       <div>
         <p className='text-sm text-muted-foreground'>
           Crafted by{' '}
-          <a
-            href='https://twitter.com/nainglk'
-            target='__blank'
-            rel='noreferrer'
-            className='font-medium underline underline-offset-4'
-          >
-            nainglk
-          </a>
+          <div>
+            shyam sundar
+          </div>
           . The source code is on{' '}
           <a
-            href='https://github.com/nainglinnkhant/scribble'
+            href='https://github.com/shyamsundared/scribble-clone'
             target='__blank'
             rel='noreferrer'
             className='font-medium underline underline-offset-4'
